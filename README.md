@@ -7,4 +7,4 @@ Powershell scripts that build the discovery and remidiation functions of configu
 
 #### Device Collections
 ------------------
-SQL queries that will create dynamic device collections based off the specified criteria, such as OS and server type.
+SQL queries that will create dynamic device collections based off the specified criteria, such as OS or server function.
